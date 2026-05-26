@@ -1,0 +1,36 @@
+[
+  {
+    "qid": "5a23565482b03a001a4aa790",
+    "title": "Construction",
+    "question": "Who manages construction projects and assumes financial responsibility for completing them?",
+    "context": "The Standard Industrial Classification and the newer North American Industry Classification System have a classification system for companies that perform or otherwise engage in construction. To recognize the differences of companies in this sector, it is divided into three subsectors: building construction, heavy and civil engineering construction, and specialty trade contractors. There are also categories for construction service firms (e.g., engineering, architecture) and construction managers (firms engaged in managing construction projects without assuming direct financial responsibility for completion of the construction project).",
+    "answers": [],
+    "is_unanswerable": true
+  },
+  {
+    "qid": "572a1046af94a219006aa78f",
+    "title": "Economic_inequality",
+    "question": "What are both Branko Milanovic and Joseph Stiglitz?",
+    "context": "Economist Joseph Stiglitz presented evidence in 2009 that both global inequality and inequality within countries prevent growth by limiting aggregate demand. Economist Branko Milanovic, wrote in 2001 that, \"The view that income inequality harms growth – or that improved equality can help sustain growth – has become more widely held in recent years. ... The main reason for this shift is the increasing importance of human capital in development. When physical capital mattered most, savings and investments were key. Then it was important to have a large contingent of rich people who could save a greater proportion of their income than the poor and invest it in physical capital. But now that human capital is scarcer than machines, widespread education has become the secret to growth.\"",
+    "answers": [
+      "Economist",
+      "Economist",
+      "Economist"
+    ],
+    "is_unanswerable": false
+  },
+  {
+    "qid": "5730a314069b5314008321ef",
+    "title": "Imperialism",
+    "question": "Who did the geographic scholars work for? ",
+    "context": "According to geographic scholars under colonizing empires, the world could be split into climatic zones. These scholars believed that Northern Europe and the Mid-Atlantic temperate climate produced a hard-working, moral, and upstanding human being. Alternatively, tropical climates yielded lazy attitudes, sexual promiscuity, exotic culture, and moral degeneracy. The people of these climates were believed to be in need of guidance and intervention from the European empire to aid in the governing of a more evolved social structure; they were seen as incapable of such a feat. Similarly, orientalism is a view of a people based on their geographical location. ",
+    "answers": [
+      "colonizing empires",
+      "colonizing empires",
+      "colonizing empires",
+      "colonizing empires",
+      "colonizing empires"
+    ],
+    "is_unanswerable": false
+  }
+]
